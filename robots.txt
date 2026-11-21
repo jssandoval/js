@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://jaime-sandoval-ia-portafolio.jsanbuck.chatgpt.site/sitemap.xml
+Sitemap: https://js.software502.com/sitemap.xml

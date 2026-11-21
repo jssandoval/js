@@ -1,7 +1,7 @@
-:HL["/_next/static/css/366f0fc6ba7059b7.css","style"]
+:HL["/_next/static/css/aac9961ba3800569.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700&family=Manrope:wght@400;500;600;650;700;750;800&display=swap","style"]
-:HL["/assets/jaime-sandoval-logo.jpeg","image"]
-3:[["children",{"s":"__PAGE__","h":160}]]
-2:[["children",{"s":{"n":"slug","t":"d","k":"erp","s":[]},"h":65632,"c":"$Q3"}]]
-1:[["children",{"s":"proyectos","h":131168,"c":"$Q2"}]]
-0:{"b":"MFI1nzm7QWmFkjBRiRorB","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"erp","s":[]},"h":65632,"c":"$Q4"}]]
+2:[["children",{"s":"proyectos","h":131168,"c":"$Q3"}]]
+1:[["children",{"s":"(es)","h":131184,"c":"$Q2"}]]
+0:{"b":"0p4Kzmmkx7FBjC_Cwkpu5","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

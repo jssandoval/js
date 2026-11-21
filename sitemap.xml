@@ -1,37 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
-<loc>https://jaime-sandoval-ia-portafolio.jsanbuck.chatgpt.site/</loc>
+<loc>https://js.software502.com/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 <url>
-<loc>https://jaime-sandoval-ia-portafolio.jsanbuck.chatgpt.site/proyectos/nexus/</loc>
+<loc>https://js.software502.com/en/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://js.software502.com/proyectos/nexus/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/proyectos/nexus/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/projects/nexus/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/proyectos/nexus/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://jaime-sandoval-ia-portafolio.jsanbuck.chatgpt.site/proyectos/pdcc/</loc>
+<loc>https://js.software502.com/en/projects/nexus/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/proyectos/nexus/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/projects/nexus/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/proyectos/nexus/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://jaime-sandoval-ia-portafolio.jsanbuck.chatgpt.site/proyectos/plaft/</loc>
+<loc>https://js.software502.com/proyectos/pdcc/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/proyectos/pdcc/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/projects/pdcc/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/proyectos/pdcc/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://jaime-sandoval-ia-portafolio.jsanbuck.chatgpt.site/proyectos/ventas/</loc>
+<loc>https://js.software502.com/en/projects/pdcc/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/proyectos/pdcc/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/projects/pdcc/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/proyectos/pdcc/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://jaime-sandoval-ia-portafolio.jsanbuck.chatgpt.site/proyectos/data/</loc>
+<loc>https://js.software502.com/proyectos/plaft/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/proyectos/plaft/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/projects/plaft/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/proyectos/plaft/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://jaime-sandoval-ia-portafolio.jsanbuck.chatgpt.site/proyectos/erp/</loc>
+<loc>https://js.software502.com/en/projects/plaft/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/proyectos/plaft/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/projects/plaft/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/proyectos/plaft/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://js.software502.com/proyectos/ventas/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/proyectos/ventas/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/projects/ventas/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/proyectos/ventas/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://js.software502.com/en/projects/ventas/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/proyectos/ventas/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/projects/ventas/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/proyectos/ventas/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://js.software502.com/proyectos/data/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/proyectos/data/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/projects/data/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/proyectos/data/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://js.software502.com/en/projects/data/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/proyectos/data/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/projects/data/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/proyectos/data/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://js.software502.com/proyectos/erp/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/proyectos/erp/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/projects/erp/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/proyectos/erp/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://js.software502.com/en/projects/erp/</loc>
+<xhtml:link rel="alternate" hreflang="es-GT" href="https://js.software502.com/proyectos/erp/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://js.software502.com/en/projects/erp/" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://js.software502.com/proyectos/erp/" />
+<lastmod>2026-11-21T23:03:43.371Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
