@@ -1,0 +1,5 @@
+:HL["/_next/static/css/366f0fc6ba7059b7.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700&family=Manrope:wght@400;500;600;650;700;750;800&display=swap","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"MFI1nzm7QWmFkjBRiRorB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
